@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "風神",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-02-13T14:50:35.728477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風神",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/01_風神_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風神 - Fujin",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/02_風神_-_Fujin_Vaundy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風神",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_風神_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風神",
+      "artist": "Ningen-Isu",
+      "has_synced": false,
+      "path": "select/04_風神_Ningen-Isu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風神 - Fujin",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_風神_-_Fujin_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風神",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_風神_Vaundy.txt"
+    }
+  ]
+}
